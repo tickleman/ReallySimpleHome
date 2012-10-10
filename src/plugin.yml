@@ -1,0 +1,12 @@
+name: ReallySimpleHome
+main: fr.crafter.tickleman.reallysimplehome.ReallySimpleHome
+version: 1.00
+website: http://plugins.crafter.fr/tickleman/ReallySimpleHome/
+author: tickleman
+commands:
+  home:
+    usage:
+  homeset:
+    usage:
+  sethome:
+    usage:
